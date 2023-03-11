@@ -1,4 +1,4 @@
-# OpenDataLab 👋 <img align="right" width="350" height="40" src="https://opendatalab.cz/wp-content/themes/opendatalab/images/bg_homepage.jpg">
+# OpenDataLab 👋 <img align="right" width="450" height="40" src="https://opendatalab.cz/wp-content/themes/opendatalab/images/bg_homepage.jpg">
 
 ## Naše práce:
 * 💉 COVID-19 očkování https://ockovani.opendatalab.cz/
