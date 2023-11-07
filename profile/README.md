@@ -37,9 +37,9 @@ Pobřežní 620/3, Praha 8 <br>
 <hr style="border:2px solid grey">
 
 <p align="left">
-  <img src="https://opendatalab.cz/wp-content/themes/opendatalab/images/logo-fit-cs-modra.svg" width="100" />
+  <img src="https://opendatalab.cz/wp-content/themes/opendatalab/images/logo-fit-cs-modra.svg" width="180" />
   &emsp;
-  <img src="https://opendatalab.cz/wp-content/themes/opendatalab/images/logo-profinit.svg" width="100" /> 
+  <img src="img/Profinit_logo_jpg_rgb-01.jpg" width="150" /> 
   &emsp;
-  <img src="https://opendatalab.cz/wp-content/themes/opendatalab/images/logo.svg" height="40"/> 
+  <img src="https://opendatalab.cz/wp-content/themes/opendatalab/images/logo.svg" height="60"/> 
 </p>
